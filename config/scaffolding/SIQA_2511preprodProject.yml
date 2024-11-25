@@ -10,11 +10,6 @@ packages:
 - name: WmJDBCAdapter
   wpmServer: https://packages.webmethods.io
   wpmRegistry: softwareag
-- name: PackageA
-  gitServerName: SIQAPsurGit
-  gitUrl: https://github.com/prabhakarsag
-  gitUsername: prabhakarsag
-  gitBranch: main
 - name: PackageB
   gitServerName: SIQAPsurGit
   gitUrl: https://github.com/prabhakarsag
